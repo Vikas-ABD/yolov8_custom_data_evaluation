@@ -1,5 +1,7 @@
 # Object Detection and Evaluation
 
+![Sample Image](output\cat\tp\tp_cat_1.png)
+
 This repository contains code for performing object detection using the YOLO (You Only Look Once) model and evaluating predictions against ground truth annotations.
 
 ## Tasks Completed:
@@ -42,4 +44,5 @@ This repository contains code for performing object detection using the YOLO (Yo
 Feel free to reach out if you have any questions or encounter issues.
 
 Happy coding!
+
 
